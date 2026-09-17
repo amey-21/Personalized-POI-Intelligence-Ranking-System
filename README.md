@@ -111,8 +111,8 @@ poi-intelligence/
 ## Setup
 
 ```bash
-git clone <repository-url>
-cd poi-intelligence
+git clone https://github.com/amey-21/Personalized-POI-Intelligence-Ranking-System.git
+cd Personalized-POI-Intelligence-Ranking-System
 
 pip install -r requirements.txt
 ```

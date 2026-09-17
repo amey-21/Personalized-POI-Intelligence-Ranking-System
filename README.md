@@ -102,7 +102,6 @@ poi-intelligence/
 ├── data/
 ├── notebooks/
 ├── src/
-├── tests/
 ├── models/
 ├── README.md
 └── requirements.txt

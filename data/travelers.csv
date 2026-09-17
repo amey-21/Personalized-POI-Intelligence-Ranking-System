@@ -1,0 +1,102 @@
+traveler_id,destination,start_latitude,start_longitude,trip_duration,interests,budget,party_type,mobility,explicit_preferences
+U0001,Pune,18.455002,73.805006,3,history|entertainment,high,friends,walking,prefer less touristy experiences
+U0002,Pune,18.493728,73.851071,2,museums|activities|history|entertainment,high,family,walking,prefer local experiences
+U0003,Bengaluru,12.952075,77.496644,4,history|activities,low,family,public_transport,prefer outdoor activities
+U0004,Pune,18.595946,73.857246,5,entertainment|nature,high,family,car,prefer family friendly places
+U0005,Pune,18.459165,73.79558,4,museums|history,medium,family,public_transport,prefer cultural experiences
+U0006,Mumbai,19.029563,72.823327,4,history|architecture|nature|shopping,low,couple,public_transport,prefer budget friendly places
+U0007,Goa,15.645809,74.02,7,shopping|food,low,solo,public_transport,prefer budget friendly places
+U0008,Goa,15.276475,74.156568,7,shopping|museums|entertainment|neighborhoods,medium,friends,walking,prefer outdoor activities
+U0009,Mumbai,18.98632,72.946479,4,activities|entertainment|architecture|history,low,friends,walking,prefer less touristy experiences
+U0010,Pune,18.480568,73.781996,5,history|activities|museums|nature,medium,family,car,prefer less touristy experiences
+U0011,Pune,18.586342,73.857394,4,shopping|history|architecture|museums,low,friends,walking,prefer outdoor activities
+U0012,Delhi,28.678589,77.103841,2,nature|museums|history|architecture,low,solo,car,prefer cultural experiences
+U0013,Bengaluru,12.855843,77.72873,4,food|museums,high,solo,walking,prefer highly rated places
+U0014,Pune,18.645597,73.856541,3,neighborhoods|architecture,medium,friends,walking,prefer family friendly places
+U0015,Goa,15.409597,74.035843,4,entertainment|neighborhoods|food,low,couple,walking,prefer cultural experiences
+U0016,Pune,18.567662,73.796023,3,history|food,low,solo,walking,prefer cultural experiences
+U0017,Pune,18.552831,73.805695,5,entertainment|architecture,high,friends,walking,prefer highly rated places
+U0018,Bengaluru,12.907123,77.479079,5,activities|entertainment|museums,high,solo,car,prefer famous landmarks
+U0019,Pune,18.530524,73.817861,2,museums|entertainment,high,friends,walking,prefer budget friendly places
+U0020,Mumbai,18.997491,72.837432,2,entertainment|history|food,high,solo,walking,prefer family friendly places
+U0021,Mumbai,19.042245,72.918475,5,architecture|activities,low,friends,public_transport,prefer highly rated places
+U0022,Goa,15.419203,74.178659,7,neighborhoods|architecture|history|entertainment,low,solo,car,prefer less touristy experiences
+U0023,Goa,15.272866,73.992089,7,architecture|food|nature|neighborhoods,low,solo,car,prefer famous landmarks
+U0024,Mumbai,19.041321,73.079559,7,food|history,medium,family,public_transport,prefer family friendly places
+U0025,Goa,15.345474,73.897893,4,shopping|history|food,medium,solo,walking,prefer family friendly places
+U0026,Delhi,28.52956,77.31663,2,shopping|nature,low,friends,car,prefer outdoor activities
+U0027,Delhi,28.745156,77.25355,7,entertainment|nature,high,solo,walking,prefer outdoor activities
+U0028,Pune,18.627943,73.898483,3,nature|museums|shopping,medium,couple,car,prefer outdoor activities
+U0029,Delhi,28.59656,77.302668,2,activities|nature,low,solo,public_transport,prefer local experiences
+U0030,Goa,15.314633,73.920918,5,food|history|entertainment|shopping,low,solo,public_transport,prefer local experiences
+U0031,Bengaluru,12.888234,77.542478,2,museums|entertainment|shopping,low,family,car,prefer budget friendly places
+U0032,Delhi,28.674843,77.312882,3,architecture|activities,low,couple,car,prefer cultural experiences
+U0033,Bengaluru,13.090671,77.709219,3,architecture|history|museums,low,friends,walking,prefer family friendly places
+U0034,Bengaluru,12.954898,77.696161,3,food|museums,medium,family,public_transport,prefer famous landmarks
+U0035,Goa,15.390458,73.954703,7,food|history|architecture,low,family,walking,prefer famous landmarks
+U0036,Delhi,28.580369,77.214273,4,entertainment|history|museums,high,couple,public_transport,prefer less touristy experiences
+U0037,Bengaluru,12.850507,77.727673,7,museums|shopping|entertainment|food,high,family,car,prefer cultural experiences
+U0038,Pune,18.593951,73.810064,4,activities|shopping|museums|neighborhoods,medium,couple,walking,prefer budget friendly places
+U0039,Bengaluru,13.053195,77.720842,7,nature|activities|entertainment|food,medium,family,walking,prefer budget friendly places
+U0040,Delhi,28.631998,77.011125,5,museums|neighborhoods|activities,high,couple,car,prefer famous landmarks
+U0041,Goa,15.456181,74.01647,4,museums|nature,low,couple,walking,prefer less touristy experiences
+U0042,Pune,18.498969,73.845027,2,activities|museums|shopping,high,friends,public_transport,prefer budget friendly places
+U0043,Mumbai,18.95165,72.990668,2,museums|architecture|activities,high,friends,walking,prefer family friendly places
+U0044,Pune,18.541292,73.910283,7,shopping|neighborhoods|nature|entertainment,high,friends,car,prefer highly rated places
+U0045,Mumbai,19.160279,72.916136,4,nature|neighborhoods,high,couple,public_transport,prefer highly rated places
+U0046,Pune,18.592709,73.796899,4,entertainment|history|neighborhoods,low,couple,public_transport,prefer local experiences
+U0047,Mumbai,18.92248,72.89266,7,activities|food|history,medium,friends,car,prefer less touristy experiences
+U0048,Delhi,28.564114,76.852948,4,activities|entertainment|nature,high,couple,public_transport,prefer family friendly places
+U0049,Goa,15.424334,73.714512,4,activities|architecture|entertainment|museums,low,solo,public_transport,prefer less touristy experiences
+U0050,Pune,18.57855,73.77714,5,food|nature,medium,family,walking,prefer highly rated places
+U0051,Goa,15.385,74.13982,4,nature|history|museums,low,solo,public_transport,prefer family friendly places
+U0052,Pune,18.606247,73.880351,2,museums|food,high,couple,walking,prefer local experiences
+U0053,Bengaluru,13.050838,77.619191,3,nature|shopping|history,high,solo,walking,prefer outdoor activities
+U0054,Pune,18.565737,73.935777,7,activities|entertainment|shopping|history,low,couple,walking,prefer outdoor activities
+U0055,Delhi,28.691658,77.248114,7,shopping|activities,high,family,walking,prefer cultural experiences
+U0056,Pune,18.619915,73.914466,2,shopping|neighborhoods|entertainment,low,friends,walking,prefer outdoor activities
+U0057,Delhi,28.69246,77.119086,5,activities|nature|architecture,low,solo,public_transport,prefer highly rated places
+U0058,Mumbai,19.162667,72.949447,5,food|neighborhoods|activities,medium,couple,public_transport,prefer family friendly places
+U0059,Goa,15.569133,73.870169,7,nature|food|entertainment|history,low,couple,car,prefer budget friendly places
+U0060,Bengaluru,13.016553,77.522097,5,neighborhoods|entertainment|activities|food,low,family,walking,prefer budget friendly places
+U0061,Mumbai,19.007172,72.953544,5,entertainment|shopping|museums|neighborhoods,high,family,public_transport,prefer highly rated places
+U0062,Goa,15.372649,73.815269,3,history|architecture|entertainment,low,friends,public_transport,prefer outdoor activities
+U0063,Pune,18.616526,73.809249,4,nature|food,high,couple,public_transport,prefer less touristy experiences
+U0064,Pune,18.560672,73.889483,3,neighborhoods|history|activities|food,high,family,public_transport,prefer highly rated places
+U0065,Bengaluru,12.952212,77.739649,4,history|entertainment|museums,medium,solo,car,prefer less touristy experiences
+U0066,Mumbai,18.952219,72.946994,4,museums|history,high,friends,car,prefer family friendly places
+U0067,Delhi,28.564113,77.304252,4,activities|nature|neighborhoods|entertainment,low,solo,walking,prefer family friendly places
+U0068,Goa,15.514171,73.778529,3,history|architecture|food|museums,medium,friends,public_transport,prefer less touristy experiences
+U0069,Mumbai,19.000837,72.848951,5,museums|nature,high,couple,public_transport,prefer famous landmarks
+U0070,Delhi,28.517443,76.924495,4,history|food,low,family,car,prefer outdoor activities
+U0071,Bengaluru,12.887306,77.656603,5,entertainment|neighborhoods|museums,low,solo,public_transport,prefer cultural experiences
+U0072,Delhi,28.52511,76.895663,7,food|nature|neighborhoods|entertainment,low,friends,car,prefer highly rated places
+U0073,Goa,15.322596,73.992665,5,neighborhoods|shopping,medium,family,public_transport,prefer famous landmarks
+U0074,Mumbai,19.015431,72.992786,4,activities|food|museums|neighborhoods,medium,family,public_transport,prefer famous landmarks
+U0075,Bengaluru,13.109473,77.697478,2,entertainment|neighborhoods|museums|food,low,family,car,prefer highly rated places
+U0076,Bengaluru,13.077997,77.511067,7,nature|neighborhoods,high,friends,walking,prefer less touristy experiences
+U0077,Delhi,28.689794,77.204891,4,food|activities|entertainment|history,low,friends,walking,prefer local experiences
+U0078,Bengaluru,13.129796,77.537558,4,neighborhoods|entertainment|history,medium,couple,public_transport,prefer family friendly places
+U0079,Delhi,28.602472,77.289663,2,activities|shopping|entertainment,high,family,walking,prefer outdoor activities
+U0080,Goa,15.58499,73.989962,5,neighborhoods|entertainment,medium,family,car,prefer budget friendly places
+U0081,Bengaluru,13.129856,77.710881,3,activities|museums|entertainment|neighborhoods,low,family,car,prefer highly rated places
+U0082,Bengaluru,12.965824,77.649107,3,food|architecture|nature,high,family,walking,prefer highly rated places
+U0083,Pune,18.55519,73.841386,3,architecture|history|museums,medium,family,car,prefer budget friendly places
+U0084,Pune,18.620353,73.920468,7,shopping|neighborhoods|activities,high,solo,car,prefer famous landmarks
+U0085,Mumbai,19.120906,73.072325,3,history|activities|food|shopping,high,solo,public_transport,prefer local experiences
+U0086,Goa,15.61137,73.722995,2,shopping|entertainment|museums,low,couple,car,prefer budget friendly places
+U0087,Delhi,28.65454,76.940028,3,activities|museums,medium,couple,walking,prefer highly rated places
+U0088,Goa,15.433828,74.03342,5,entertainment|architecture|food,medium,family,car,prefer outdoor activities
+U0089,Bengaluru,13.057094,77.587051,4,activities|neighborhoods,low,couple,public_transport,prefer cultural experiences
+U0090,Delhi,28.538762,77.19964,2,activities|nature|food|neighborhoods,high,solo,car,prefer highly rated places
+U0091,Goa,15.560296,73.815059,4,museums|nature,high,couple,car,prefer famous landmarks
+U0092,Pune,18.511787,73.838165,7,architecture|history|entertainment,medium,friends,walking,prefer family friendly places
+U0093,Mumbai,19.175279,73.056761,4,entertainment|nature|activities|history,medium,friends,public_transport,prefer cultural experiences
+U0094,Pune,18.543666,73.76506,3,activities|shopping|food|museums,low,family,car,prefer famous landmarks
+U0095,Bengaluru,12.960576,77.674703,4,activities|shopping|food|neighborhoods,low,friends,walking,prefer cultural experiences
+U0096,Delhi,28.51641,76.881609,5,nature|activities|food|history,low,solo,public_transport,prefer highly rated places
+U0097,Pune,18.469438,73.927452,3,neighborhoods|shopping|entertainment,high,friends,car,prefer local experiences
+U0098,Bengaluru,13.046477,77.700108,7,nature|food|shopping,medium,couple,public_transport,prefer highly rated places
+U0099,Mumbai,19.199408,72.784774,4,shopping|food|museums|architecture,low,solo,public_transport,prefer famous landmarks
+U0100,Mumbai,19.124597,72.959001,2,shopping|museums,low,couple,walking,prefer family friendly places
+U0101,Pune,18.5204,73.8567,3,nature|activity,medium,solo,walking,outdoor activities|less touristy

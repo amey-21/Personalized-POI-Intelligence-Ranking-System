@@ -129,6 +129,10 @@ It uses:
 
 Historical behavioral features are not used for cold-start travelers.
 
+For a new POI, recommendations initially rely on its content, category, location, quality, and contextual features. As interaction data accumulates, the POI can progressively benefit from behavioral and collaborative signals.
+
+For a new destination, the system can use cross-destination content similarity and global POI priors to generate initial candidates. As interactions are collected within the destination, local behavioral signals and destination-specific popularity can gradually be incorporated.
+
 This allows recommendations to be generated even when there is little or no interaction history.
 
 ## 9. Evaluation
